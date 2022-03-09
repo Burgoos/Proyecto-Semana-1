@@ -1,0 +1,13 @@
+package com.bootcamp.bancoPyt01;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BancoPyt01Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BancoPyt01Application.class, args);
+	}
+
+}
